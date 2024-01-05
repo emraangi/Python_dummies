@@ -7,7 +7,7 @@ age = 25
 height = 1.75
 
 # 3. String
-name = "John"
+name = "Imran"
 
 # 4. Boolean
 is_student = True
